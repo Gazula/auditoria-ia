@@ -1,0 +1,81 @@
+{
+    "tienda": "11",
+    "fecha": "2025-07-19 23:14",
+    "puntaje": 83.33,
+    "total_items": 12,
+    "items_cumplidos": 10,
+    "detalle": [
+        {
+            "item": "Orden y Limpieza",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Temperatura de conservación",
+            "estado": "No Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Exhibición de productos fuera de temperatura",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Nivel de carga de mercadería",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Ausencia de productos vencidos",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Frescura y presentación de los productos",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Depósito y Cámaras (orden, limpieza y temperatura)",
+            "estado": "No Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Etiquetado de productos",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Fechas de retiro de góndola",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Riesgo de contaminación",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Mantenimiento",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Productos de limpieza",
+            "estado": "Cumple",
+            "comentario": "",
+            "imagen": null
+        }
+    ]
+}

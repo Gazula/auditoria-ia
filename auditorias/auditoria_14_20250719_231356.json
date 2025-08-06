@@ -1,0 +1,81 @@
+{
+    "tienda": "14",
+    "fecha": "2025-07-19 23:13",
+    "puntaje": 0.0,
+    "total_items": 12,
+    "items_cumplidos": 0,
+    "detalle": [
+        {
+            "item": "Orden y Limpieza",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Temperatura de conservación",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Exhibición de productos fuera de temperatura",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Nivel de carga de mercadería",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Ausencia de productos vencidos",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Frescura y presentación de los productos",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Depósito y Cámaras (orden, limpieza y temperatura)",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Etiquetado de productos",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Fechas de retiro de góndola",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Riesgo de contaminación",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        },
+        {
+            "item": "Mantenimiento",
+            "estado": "No seleccionado",
+            "comentario": "vdvd",
+            "imagen": null
+        },
+        {
+            "item": "Productos de limpieza",
+            "estado": "No seleccionado",
+            "comentario": "",
+            "imagen": null
+        }
+    ]
+}
