@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# Buildozer
+.buildozer/
+bin/
+dist/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
