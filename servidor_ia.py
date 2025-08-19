@@ -20,9 +20,9 @@ model = YOLO("best.pt")
 
 # Diccionario de tiendas y sus correos
 TIENDAS = {
-    "101": "tienda101@gmail.com",
-    "102": "tienda102@gmail.com",
-    "103": "tienda103@gmail.com"
+    "101": "impresion.arte3d.info@gmail.com",
+    "102": "impresion.arte3d.info@gmail.com",
+    "103": "impresion.arte3d.info@gmail.com"
 }
 
 # --- Función para analizar imagen con YOLO ---
